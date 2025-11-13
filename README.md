@@ -4,11 +4,7 @@
 
 <hr>
 <h3 align="left">✨Quote:</h3>
-<p align="center">
-  <p>“Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.”
-- Larry Wall</p>
-</p>
-<hr>
+<p align="center"> <i>“Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.”</i> - Larry Wall </p>
 
 <img align="right" src="https://github.com/user-attachments/assets/2895e78b-a783-4886-a0e5-1cd4b8dac73b" alt="cat is coding" width="400" height="250">
 
