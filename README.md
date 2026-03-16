@@ -12,7 +12,7 @@
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with C, Python.
+- 🛠 &nbsp; I’m currently working with C, С++, C#.
 - 💬 &nbsp; Open to discussions about your projects.
 - 👾 &nbsp; Now: student of URSPU.
 - 📫 &nbsp; Reach me out: nanylife567@gmail.com.
