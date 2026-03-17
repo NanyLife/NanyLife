@@ -23,6 +23,13 @@
 - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
 - 🍕 &nbsp; Jams & Tech Events & Hackathons.
 
+### Contributor moment
+| Project | Description | My role |
+| :--- | :--- | :--- |
+| **[End of the road](https://github.com/Pieceofweakness/Spirit-speaker)** | Unity 3D game | Second coder |
+| **[Spirit speaker](https://github.com/Pieceofweakness/Spirit-speaker)** | Unity 2D game | Core developer |
+
+
 ### Languages and Tools:
 
 
