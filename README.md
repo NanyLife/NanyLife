@@ -26,7 +26,7 @@
 ### Contributor moment
 | Project | Description | My role |
 | :--- | :--- | :--- |
-| **[End of the road](https://github.com/Pieceofweakness/Spirit-speaker)** | Unity 3D game | Second coder |
+| **[End of the road](https://github.com/DrabWave/bETA)** | Unity 3D game | Second coder |
 | **[Spirit speaker](https://github.com/Pieceofweakness/Spirit-speaker)** | Unity 2D game | Core developer |
 
 
